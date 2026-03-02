@@ -5,9 +5,24 @@ Dashboard de análise de vendas desenvolvido em Power BI com foco em indicadores
 
 ## 📊 Visualização do Dashboard
 
-![Visão Geral](images/dashboardvendas.png)
-![Análise por Produto](images/capturadetela2026-03-01233059.png)
+![Visão Geral](images/dashboard_vendas.png)
+Visão Geral do Dashboard
 
+![Análise de Faturamento e Quantidade Vendida](images/faturamento_contagem_mes.png)
+Análise do Faturamento por marca e da Quantidade Vendida por Mês
+📈 Insights Estratégicos: 
+Comparação entre volume vendido e faturamento.
+Análise de regiões com maior potencial de crescimento.
+
+![Análise de Vendas](images/faturamento_prodmaisvendido_mes.png)
+Análise de Vendas por mês e o Produto mais Vendido
+📈 Insights Estratégicos:
+Identificação dos produtos com maior margem.
+
+![Filtro adicionado](images/dashboard_filtrado.png)
+Gráfico alterado por filtro adicionado na marca Southridge Video
+📈 Insights Estratégicos
+Identificação do faturamento por marca
 
 📊 Dashboard de Vendas – Power BI
 
@@ -46,3 +61,10 @@ Estrutura:
 Tabela de Vendas
 Tabela de Produtos
 Tabela de Regiões
+
+🧠 Habilidades Demonstradas:
+Modelagem de dados
+Criação de medidas em DAX
+Criação de KPIs
+Storytelling com dados
+Organização de projeto
