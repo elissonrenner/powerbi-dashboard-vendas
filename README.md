@@ -29,4 +29,12 @@ O dashboard permite identificar padrões de crescimento, sazonalidade e regiões
 🎯 Conclusão:
 A construção do dashboard teve como foco transformar dados brutos em informações visuais e estratégicas para apoiar a tomada de decisão e o acompanhamento intuitivo da performance geral do negócio.
 
-📷 Visualização do Projeto:
+📂 Arquivo do Projeto:
+O arquivo .pbix está disponível neste repositório para visualização completa do modelo de dados e medidas DAX.
+
+📊 Base de Dados:
+A base utilizada no projeto é fictícia e está disponível na pasta _data_ deste repositório.
+Estrutura:
+Tabela de Vendas
+Tabela de Produtos
+Tabela de Regiões
