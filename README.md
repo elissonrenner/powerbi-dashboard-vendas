@@ -1,6 +1,14 @@
 # powerbi-dashboard-vendas
 Dashboard de análise de vendas desenvolvido em Power BI com foco em indicadores de desempenho.
 
+
+
+## 📊 Visualização do Dashboard
+
+![Visão Geral](images/dashboardvendas.png)
+![Análise por Produto](images/capturadetela2026-03-01233059.png)
+
+
 📊 Dashboard de Vendas – Power BI
 
 📌 Objetivo:
